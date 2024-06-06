@@ -1,0 +1,12 @@
+[package]
+name = "parley_cosmic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parley = { git = "https://github.com/linebender/parley" }
+peniko = "0.1.0"
+skrifa = "0.19.3"
+swash = "0.1.16"
+image = "0.25.1"
+cosmic-text = "0.11.2"
